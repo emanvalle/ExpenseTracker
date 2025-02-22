@@ -10,7 +10,7 @@ struct ContentView: View {
     var body: some View {
         NavigationView {
             VStack {
-                //ExpenseChartView() //Add chart at the top
+                ExpenseChartView() //Add chart at the top
                 
                 List {
                     ForEach(expenses, id: \.id) { expense in

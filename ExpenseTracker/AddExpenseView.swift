@@ -1,39 +1,3 @@
-//import SwiftUI
-//
-//struct AddExpenseView: View {
-//    @Environment(\.presentationMode) var presentationMode
-//    @State private var title: String = ""
-//    @State private var amount: String = ""
-//    @State private var category: String = ""
-//    @State private var date = Date()
-//
-//    var body: some View {
-//        NavigationView {
-//            Form {
-//                TextField("Title", text: $title)
-//                TextField("Amount", text: $amount)
-//                    .keyboardType(.decimalPad)
-//                TextField("Category", text: $category)
-//                DatePicker("Date", selection: $date, displayedComponents: .date)
-//            }
-//            .navigationTitle("Add Expense")
-//            .toolbar {
-//                ToolbarItem(placement: .navigationBarLeading) {
-//                    Button("Cancel") {
-//                        presentationMode.wrappedValue.dismiss()
-//                    }
-//                }
-//                ToolbarItem(placement: .navigationBarTrailing) {
-//                    Button("Save") {
-//                        // Save logic
-//                        presentationMode.wrappedValue.dismiss()
-//                    }
-//                }
-//            }
-//        }
-//    }
-//}
-
 import SwiftUI
 
 struct AddExpenseView: View {
