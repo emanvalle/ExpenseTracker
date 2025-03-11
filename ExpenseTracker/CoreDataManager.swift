@@ -1,3 +1,14 @@
+//
+//  CoreDataManager.swift
+//  ExpenseTracker
+//
+//  Created by Eric Valle on February 17, 2025.
+//
+//  Description: Data manager to save user information on device.
+//
+//  © 2025 Eric Valle. All rights reserved.
+//
+
 import CoreData
 import Foundation
 

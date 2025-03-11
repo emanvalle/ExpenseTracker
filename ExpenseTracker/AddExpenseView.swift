@@ -1,3 +1,15 @@
+//
+//  AddExpenseView.swift
+//  ExpenseTracker
+//
+//  Created by Eric Valle on February 17, 2025.
+//
+//  Description: Screen for user to enter in expense information.
+//
+//  © 2025 Eric Valle. All rights reserved.
+//
+
+
 import SwiftUI
 
 struct AddExpenseView: View {

@@ -1,3 +1,14 @@
+//
+//  ExpenseChartView.swift
+//  ExpenseTracker
+//
+//  Created by Eric Valle on February 17, 2025.
+//
+//  Description: Data visualization for expenses.
+//
+//  © 2025 Eric Valle. All rights reserved.
+//
+
 import SwiftUI
 import Charts
 

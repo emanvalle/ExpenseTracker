@@ -2,7 +2,11 @@
 //  Persistence.swift
 //  ExpenseTracker
 //
-//  Created by Taco Titan on 2/17/25.
+//  Created by Eric Valle on February 17, 2025.
+//
+//  Description: Persistence code.
+//
+//  © 2025 Eric Valle. All rights reserved.
 //
 
 import CoreData
